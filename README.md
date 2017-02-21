@@ -1,2 +1,3 @@
 # ImageClassifyLibsvm
-Just a simple test for Image classification
+Just a a litter test of image classification based on libsvm
+Then,I will use the PCA algorithm in this litter test.
